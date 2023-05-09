@@ -36,3 +36,5 @@ ul.navbar-links>li*4>a then press tab
 
 ng g component pages/home 
 ng g component pages/movies
+ng g service services/movies 
+
