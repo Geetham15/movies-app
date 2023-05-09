@@ -3,3 +3,9 @@ create a project ---> ng new movies-app
 run server ---> ng serve 
 http://localhost:4200
 
+Extensions
+-------------
+Angular snippets
+Angular Language service
+prettier-code formatter
+material icon
