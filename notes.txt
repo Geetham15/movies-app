@@ -23,3 +23,13 @@ Go to themoviesdb.org
 
 to generate a component ---> ng g component shared/header
 ng g component shared/home --dry-run 
+
+shortcut code
+-------------
+ul.navbar-links>li*4>a then press tab
+ <ul class="navbar-links">
+      <li><a href="">Home</a></li>
+      <li><a href="">Movies</a></li>
+      <li><a href="">TV Shows</a></li>
+      <li><a href="">Genres</a></li>
+</ul>
