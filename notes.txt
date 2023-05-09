@@ -38,3 +38,5 @@ ng g component pages/home
 ng g component pages/movies
 ng g service services/movies 
 
+ ng g component components/slider
+
