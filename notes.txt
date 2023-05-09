@@ -33,3 +33,5 @@ ul.navbar-links>li*4>a then press tab
       <li><a href="">TV Shows</a></li>
       <li><a href="">Genres</a></li>
 </ul>
+
+ng g component pages/home 
